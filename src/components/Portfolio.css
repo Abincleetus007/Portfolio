@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Arial', sans-serif;
+  background: black;
+  color: white;
+}
+
+.portfolio {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.project {
+  background:black;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease-in-out;
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+}
+.project h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px; /* Adds space between project title and description */
+}
+
+.project p {
+  font-size: 1rem;
+  line-height: 1.6; /* Improves readability */
+}
+
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+.project-images {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 25px 0;
+}
+
+.project-images img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+.project-links {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.project-links a {
+  padding: 12px 25px;
+  background: linear-gradient(90deg, #ff7e5f, #feb47b);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+
+.project-links a:hover {
+  background: linear-gradient(90deg, #e96443, #904e95);
+  transform: scale(1.1);
+}
