@@ -51,6 +51,13 @@ const projects = [
     liveDemo: "https://incomparable-panda-e6d6cc.netlify.app/",
     githubLink: "https://github.com/Abincleetus007/blog_app",
   },
+  {
+    title: "Blog Application",
+    description: "The Blog App is a full-stack web application that allows users to create, read, update, and delete blog posts. It provides a seamless and interactive experience for users to share their thoughts, opinions, and knowledge through a user-friendly interface.",
+    images: [project1Image6],
+    liveDemo: "https://incomparable-panda-e6d6cc.netlify.app/",
+    githubLink: "https://github.com/Abincleetus007/blog_app",
+  },
 ];
 
 const Portfolio = () => {
