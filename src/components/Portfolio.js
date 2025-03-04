@@ -26,7 +26,7 @@ const projects = [
     title: "Fishy",
     description: "Welcome to the Fishy Product Page! This project showcases a beautifully designed product landing page for an aquatic-themed store, built using HTML, CSS, and JavaScript.",
     images: [project1Image3],
-    liveDemo: "-https://abincleetus007.github.io/fishy/",
+    liveDemo: "https://abincleetus007.github.io/fishy/",
     githubLink: "https://github.com/Abincleetus007/fishy",
   },
   {

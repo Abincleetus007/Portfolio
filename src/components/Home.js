@@ -13,7 +13,7 @@ const Home = () => {
 
       {/* Portfolio Button */}
       <Link to="/portfolio" className="portfolio-button">
-        View Porjects
+        View Projects
       </Link>
 
       {/* About Me Section */}

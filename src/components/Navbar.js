@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
-import profileImage from '../images/Aby.jpg'; // Import your profile image
+import profileImage from '../images/aby1.jpg'; // Import your profile image
 
 const Navbar = () => {
   return (
@@ -19,7 +19,7 @@ const Navbar = () => {
           </li>
           <li className="navbar-item">
             <Link to="/portfolio" className="navbar-link">
-              Porjects
+              Projects
             </Link>
           </li>
         </ul>
