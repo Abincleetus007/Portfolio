@@ -6,6 +6,7 @@ import project1Image3 from '../images/3.png';
 import project1Image4 from '../images/4.png';
 import project1Image5 from '../images/5.png';
 import project1Image6 from '../images/6.png';
+import project1Image7 from '../images/7.png';
 const projects = [
   {
     title: "Rolex Watches  ",
