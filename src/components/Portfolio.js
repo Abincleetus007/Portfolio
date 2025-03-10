@@ -56,7 +56,7 @@ const projects = [
     title: "My Portfolio",
     description: "Welcome to my portfolio website, a showcase of my skills and projects as a MERN stack developer. Here, you'll find my latest work, including web applications, full-stack projects, and technical solutions. With expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in building scalable, efficient, and user-friendly applications. Explore my portfolio to see how I bring ideas to life through clean code, modern design, and innovative technology.",
     images: [project1Image7],
-    liveDemo: "https://portfolio-neon-nine-33.vercel.app/",
+    liveDemo: "https://portfolio-xt52.vercel.app/",
     githubLink: "https://github.com/Abincleetus007/Portfolio",
   },
 ];
