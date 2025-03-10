@@ -52,18 +52,18 @@ const projects = [
     githubLink: "https://github.com/Abincleetus007/blog_app",
   },
   {
-    title: "Blog Application",
-    description: "The Blog App is a full-stack web application that allows users to create, read, update, and delete blog posts. It provides a seamless and interactive experience for users to share their thoughts, opinions, and knowledge through a user-friendly interface.",
-    images: [project1Image6],
-    liveDemo: "https://incomparable-panda-e6d6cc.netlify.app/",
-    githubLink: "https://github.com/Abincleetus007/blog_app",
+    title: "My Portfolio",
+    description: "Welcome to my portfolio website, a showcase of my skills and projects as a MERN stack developer. Here, you'll find my latest work, including web applications, full-stack projects, and technical solutions. With expertise in MongoDB, Express.js, React.js, and Node.js, I specialize in building scalable, efficient, and user-friendly applications. Explore my portfolio to see how I bring ideas to life through clean code, modern design, and innovative technology.",
+    images: [project1Image7],
+    liveDemo: "https://portfolio-neon-nine-33.vercel.app/",
+    githubLink: "https://github.com/Abincleetus007/Portfolio",
   },
 ];
 
 const Portfolio = () => {
   return (
     <div className="portfolio">
-      <h1>My Portfolio</h1>
+      <h1>Projects</h1>
       <div className="projects-container">
         {projects.map((project, index) => (
           <div key={index} className="project">
