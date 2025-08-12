@@ -7,8 +7,16 @@ import project1Image4 from '../images/4.png';
 import project1Image5 from '../images/5.png';
 import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
+import project1Image8 from '../images/8.png';
 const projects = [
 
+  {
+    title: "Food_Delivery_Website ",
+    description: " A modern food delivery application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse food items, add them to a cart, and place orders seamlessly. Key features include user authentication and secure payment integration",
+    images: [project1Image8],
+    liveDemo: "https://foodie-hub-website.netlify.app/",
+    githubLink: "https://github.com/Abincleetus007/Food_delivery_app",
+  },
   {
     title: "Rolex Watches  ",
     description: "Rolex Watches project! This is a beautifully designed landing page for Rolex watches, crafted using HTML & CSS to showcase luxury, elegance, and sophistication.",
