@@ -8,14 +8,7 @@ import project1Image5 from '../images/5.png';
 import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
 const projects = [
-  
-  {
-    title: "Rolex Watches  ",
-    description: "Rolex Watches project! This is a beautifully designed landing page for Rolex watches, crafted using HTML & CSS to showcase luxury, elegance, and sophistication.",
-    images: [project1Image1],
-    liveDemo: "https://abincleetus007.github.io/rolex_watches-html-css-/",
-    githubLink: "https://github.com/Abincleetus007/rolex_watches-html-css-",
-  },
+
   {
     title: "Rolex Watches  ",
     description: "Rolex Watches project! This is a beautifully designed landing page for Rolex watches, crafted using HTML & CSS to showcase luxury, elegance, and sophistication.",
