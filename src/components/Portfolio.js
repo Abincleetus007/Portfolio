@@ -12,7 +12,7 @@ import project1Image9 from '../images/9.png';
 const projects = [
 
   {
-  title: "Food_Delivery_Website ",
+  title: "BookABed ",
     description: "A modern accommodation booking application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse available rooms, view details, and book accommodations seamlessly. Key features include:",
     images: [project1Image9],
     liveDemo: "https://frontend-eight-xi-77.vercel.app/",
