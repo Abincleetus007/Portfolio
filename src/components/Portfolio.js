@@ -8,8 +8,17 @@ import project1Image5 from '../images/5.png';
 import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
 import project1Image8 from '../images/8.png';
+import project1Image8 from '../images/9.png';
 const projects = [
 
+  {
+  title: "Food_Delivery_Website ",
+    description: "A modern accommodation booking application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse available rooms, view details, and book accommodations seamlessly. Key features include:",
+    images: [project1Image9],
+    liveDemo: "https://frontend-eight-xi-77.vercel.app/",
+    githubLink: "https://github.com/Abincleetus007/frontend",
+  
+  },
   {
     title: "Food_Delivery_Website ",
     description: " A modern food delivery application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse food items, add them to a cart, and place orders seamlessly. Key features include user authentication and secure payment integration",
