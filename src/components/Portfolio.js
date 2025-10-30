@@ -9,7 +9,7 @@ import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
 import project1Image8 from '../images/8.png';
 import project1Image9 from '../images/9.png';
-import project1Image11 from '../images/img11.png';
+import project1Image11 from '../images/img11.jpg';
 const projects = [
 
  {
