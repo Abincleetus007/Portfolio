@@ -9,12 +9,13 @@ import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
 import project1Image8 from '../images/8.png';
 import project1Image9 from '../images/9.png';
+import project1Image11 from '../images/img11.png';
 const projects = [
 
  {
   title: "Crystal Builders",
     description: "This is a modern web application built with the MERN stack ( React.js,). It’s designed to provide a polished, responsive front-end , and is an excellent showcase of current web-development best practices.",
-    images: [project1Image9],
+    images: [project1Image11],
     liveDemo: "https://test-five-steel-23.vercel.app/",
     githubLink: "https://github.com/Abincleetus007/test",
   
