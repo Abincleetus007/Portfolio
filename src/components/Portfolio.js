@@ -11,6 +11,21 @@ import project1Image8 from '../images/8.png';
 import project1Image9 from '../images/9.png';
 const projects = [
 
+ {
+  title: "BookABed ",
+    description: "“test” is a modern web application built with the MERN stack ( React.js,). It’s designed to provide a polished, responsive front-end , and is an excellent showcase of current web-development best practices.",
+    images: [project1Image9],
+    liveDemo: "https://test-five-steel-23.vercel.app/",
+    githubLink: "https://github.com/Abincleetus007/test",
+  
+  },{
+  title: "HireLoop",
+    description: "HireLoop is a modern vehicle management and booking application built using the MERN stack (React.js). It provides a seamless platform for users to explore available vehicles, compare options, and make reservations effortlessly",
+    images: [project1Image9],
+    liveDemo: "https://drive-gamma-ten.vercel.app/",
+    githubLink: "https://github.com/Abincleetus007/drive",
+  
+  },
   {
   title: "BookABed ",
     description: "A modern accommodation booking application built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to browse available rooms, view details, and book accommodations seamlessly. Key features include:",
