@@ -9,6 +9,7 @@ import project1Image6 from '../images/6.png';
 import project1Image7 from '../images/7.png';
 import project1Image8 from '../images/8.png';
 import project1Image9 from '../images/9.png';
+import project1Image10 from '../images/Screenshot_20251030-093126.Chrome.jpg';
 import project1Image11 from '../images/img11.jpg';
 const projects = [
 
@@ -22,7 +23,7 @@ const projects = [
   },{
   title: "HireLoop",
     description: "HireLoop is a modern vehicle management and booking application built using the MERN stack (React.js). It provides a seamless platform for users to explore available vehicles, compare options, and make reservations effortlessly",
-    images: [project1Image9],
+    images: [project1Image10],
     liveDemo: "https://drive-gamma-ten.vercel.app/",
     githubLink: "https://github.com/Abincleetus007/drive",
   
