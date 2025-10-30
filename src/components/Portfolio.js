@@ -12,7 +12,7 @@ import project1Image9 from '../images/9.png';
 const projects = [
 
  {
-  title: "BookABed ",
+  title: "Crystal Builders",
     description: "“test” is a modern web application built with the MERN stack ( React.js,). It’s designed to provide a polished, responsive front-end , and is an excellent showcase of current web-development best practices.",
     images: [project1Image9],
     liveDemo: "https://test-five-steel-23.vercel.app/",
