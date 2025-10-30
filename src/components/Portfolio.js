@@ -13,7 +13,7 @@ const projects = [
 
  {
   title: "Crystal Builders",
-    description: "“test” is a modern web application built with the MERN stack ( React.js,). It’s designed to provide a polished, responsive front-end , and is an excellent showcase of current web-development best practices.",
+    description: "This is a modern web application built with the MERN stack ( React.js,). It’s designed to provide a polished, responsive front-end , and is an excellent showcase of current web-development best practices.",
     images: [project1Image9],
     liveDemo: "https://test-five-steel-23.vercel.app/",
     githubLink: "https://github.com/Abincleetus007/test",
